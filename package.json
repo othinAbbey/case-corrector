@@ -1,0 +1,22 @@
+{
+  "name": "case-corrector",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othinAbbey/case-corrector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/othinAbbey/case-corrector/issues"
+  },
+  "homepage": "https://github.com/othinAbbey/case-corrector#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
