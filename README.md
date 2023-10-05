@@ -9,7 +9,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Description
+# Description
 
 The case-corrector library is a lightweight and efficient JavaScript utility for transforming names into sentence case. Whether you're dealing with user input, data processing, or any scenario where consistent and readable formatting matters, this library simplifies the task of capitalizing the first letter of each word in a name while converting the rest to lowercase.
 
