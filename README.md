@@ -35,9 +35,9 @@ npm install case-corrector
 yarn add case-corrector
 ```
 
-## Usage
+# Usage
 
-```javascript
+```
 const caseCorrector = require("case-corrector");
 
 const inputName = "OnYanGo AbBeY";
